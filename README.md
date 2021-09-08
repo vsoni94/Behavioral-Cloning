@@ -8,7 +8,8 @@ Steps followed in completion of the project are as follows:
 * Defined the Convolutional Neural Network using keras.
 * After achieving good accuracy on dataset, saved the model as 'model.h5'
 * Used 'drive.py'to test the trained model and saved the data.
-* Used 'video.py' to create the video from saved data in previous step. I have attached 2 videos. One is the video (video.mp4) created by 'video.py'. The quality of the video was not good, so I recoreded the video using screen recorder and saved it as 'video2.mp4'
+* Used 'video.py' to create the video 'video.mp4' from saved data in previous step. 
+
 ### 2. Project Files
 
 | Filename  |     Description	        					| 
